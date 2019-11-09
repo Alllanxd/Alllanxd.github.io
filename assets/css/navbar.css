@@ -1,0 +1,56 @@
+#allan {
+    background-color: #4aaaa5;
+    position:absolute;
+    left:20%;
+    bottom:0px;
+    width:20%;
+    height:10vh;
+    vertical-align:middle;
+    line-height:10vh;
+    margin:0 auto;
+    text-align:center;
+    font-size:2vw;
+    color:white;
+}
+
+#about {
+    width:5%;
+    position:absolute;
+    right:15%;
+    bottom:0px;
+    height:10vh;
+    vertical-align:middle;
+    line-height:10vh;
+    margin:0 auto;
+    text-align:center;
+    font-size:1vw;
+    overflow:hidden;
+}
+
+#portfolio {
+    width:5%;
+    position:absolute;
+    right:10%;
+    bottom:0px;
+    height:10vh;
+    vertical-align:middle;
+    line-height:10vh;
+    margin:0 auto;
+    text-align:center;
+    font-size:1vw;
+    overflow:hidden;
+}
+
+#contact {
+    width:5%;
+    position:absolute;
+    right:5%;
+    bottom:0px;
+    height:10vh;
+    vertical-align:middle;
+    line-height:10vh;
+    margin:0 auto;
+    text-align:center;
+    font-size:1vw;
+    overflow:hidden;
+}

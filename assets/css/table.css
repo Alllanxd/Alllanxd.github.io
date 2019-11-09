@@ -1,0 +1,26 @@
+.wrap {
+    min-height:100%;
+    margin-bottom:-10vh;
+}
+
+.wrap:after {
+    content:"";
+    display:block;
+    height: 10vh;
+}
+
+.index {
+    width:100%;
+    text-align:center;
+    margin:10vh 20px 20px 20px;
+}
+
+.about {
+    margin:20px 20px 20px 20px;
+    background-color: white;
+    width:60.5%;
+    display:inline-block;
+    top:125px;
+    padding:20px 20px 20px 20px; 
+    border:solid #dddddd 1px;
+}
